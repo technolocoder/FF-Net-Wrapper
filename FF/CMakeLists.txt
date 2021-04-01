@@ -1,0 +1,2 @@
+add_library(FF STATIC include/mnist_reader.hpp src/mnist_reader.cpp include/layer.hpp src/layer.cpp include/SL.hpp src/SL.cpp include/FC.hpp src/FC.cpp include/NN.hpp src/NN.cpp include/common.hpp include/IL.hpp src/IL.cpp include/activations.hpp) 
+target_include_directories(FF PUBLIC include)
