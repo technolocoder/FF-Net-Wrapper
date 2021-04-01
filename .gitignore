@@ -2,3 +2,5 @@ Debug/*
 Release/*
 CMakeFiles/*
 FF/CMakeFiles/*
+FF/cmake_install.cmake
+FF/Makefile
